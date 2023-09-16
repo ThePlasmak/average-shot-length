@@ -2,6 +2,11 @@
 
 This Python script allows you to get the average shot length of a video file. It could be helpful to anyone studying film!
 
+# Pre-requisites
+
+1. Install [FFmpeg](https://ffmpeg.org/download.html).
+2. Install [Python](https://www.python.org/downloads/).
+
 # Instructions
 
 1. Clone or download the repo.
