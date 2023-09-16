@@ -1,6 +1,6 @@
 # Introduction
 
-This Python script allows you to get the average shot length of a video file. It could be helpful to anyone studying film!
+This simple Python script allows you to get the average shot length of a video file through FFmpeg's scene change detection. It could be helpful to anyone studying film!
 
 # Prerequisites
 
@@ -15,3 +15,7 @@ This Python script allows you to get the average shot length of a video file. It
 4. Change the `input_video` variable to the name of your video file.
 5. Run the script.
 6. Check the timings against the actual cut timings in the video, and adjust `scene_change_detection_score` if necessary.
+
+# Notes
+
+Using machine learning to detect scene changes may be more accurate, but I haven't looked into this method yet.
