@@ -14,7 +14,7 @@ This simple Python script allows you to get the average shot length of a video f
 3. Open `average_shot_length.py` in a code editor.
 4. Change the `input_video` variable to the name of your video file.
 5. Run the script.
-6. Check the timings against the actual cut timings in the video, and adjust `scene_change_detection_score` if necessary.
+6. Check the cut timings printed by the script against the actual cut timings in the video, and adjust `scene_change_detection_score` if necessary.
 
 # Notes
 
